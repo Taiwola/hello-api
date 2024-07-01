@@ -8,9 +8,9 @@
     "dev": "nodemon index.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "seun olanitori",
   "license": "ISC",
-  "description": "",
+  "description": "A simple Node.js API server",
   "dependencies": {
     "express": "^4.19.2"
   }
